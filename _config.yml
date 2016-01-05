@@ -1,0 +1,28 @@
+name: wireboss
+favicon: null
+layout_spectrum: 0.8764262988697737
+typography_spectrum: 0.9878960647620261
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8582202889956534
+  lightness: 0.4442010803613812
+  saturation: 0.08046350139193237
+  rhythmicContrast: 0.36203249730169773
+purpose: []
