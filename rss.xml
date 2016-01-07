@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[wireboss]]></title>
         <description><![CDATA[wireboss]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wireboss/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 21:05:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Jan 2016 19:10:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wireboss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a0f5d3b4-1010-4a75-9143-581ec3183932.jpg">]]></description>
+            <link>https://thegrid.ai/wireboss/86115932-7821-4e4c-a9a4-856d79dc5743/index.html</link>
+            <guid isPermaLink="false">86115932-7821-4e4c-a9a4-856d79dc5743</guid>
+            <pubDate>Thu, 07 Jan 2016 19:10:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/wireboss/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">215679b0-2e04-410b-8409-043355618fad</guid>
             <pubDate>Tue, 05 Jan 2016 21:05:29 GMT</pubDate>
         </item>
